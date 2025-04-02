@@ -1,4 +1,4 @@
-# Sentinel-2 Machine Learning with Google Earth Engine (GEE)
+# Validation of Sentinel 2 Based Machine Learning Models for Czech National Forest Inventory
 
 ## Overview
 This repository contains code and training data for a machine learning (ML) analysis on Sentinel-2 satellite imagery using Google Earth Engine (GEE). The project leverages Sentinel-2 data for classification/regression tasks and utilizes ML models trained within the GEE environment.
