@@ -1,16 +1,17 @@
 # Validation of Sentinel 2 Based Machine Learning Models for Czech National Forest Inventory
 
 ## Overview
-This repository contains code and training data for a machine learning analysis on Sentinel-2 satellite imagery using Google Earth Engine (GEE). The project leverages Sentinel-2 data for land cover task and utilizes ML models trained within the GEE environment to validate these models with National Forest Inventory data.
+This repository contains code and training data for a machine learning analysis on Sentinel-2 satellite imagery using Google Earth Engine (GEE). The project leverages Sentinel-2 data for the land cover task and utilizes ML models trained within the GEE environment to validate them with National Forest Inventory data.
 
 ## Repository Structure
 ```
 Sentinel2-ML-GEE/
-│-- code/                 # Contains Google Earth Engine scripts
-│   │-- model_training.js  # Script to train ML models
+│-- code/                    # Contains Google Earth Engine scripts
+│   │-- model_training.js    # Script to train ML models
 │   │-- model_predictions.js # Script to calculate forest areas
-│-- training_data/         # CSV files with training datasets used in the study
-│   │-- training_data.csv  # Training data used for ML model
+│-- training_data/           # CSV files with training datasets used in the study
+│   │-- training_data.csv    # Training data used for ML model
+|   |-- regions.csv          # Regions used in the study
 │-- README.md
 ```
 
