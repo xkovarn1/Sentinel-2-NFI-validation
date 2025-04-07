@@ -40,6 +40,6 @@ To run the scripts in this repository, you need:
 
 ## Citation
 If you use this repository in your research, please cite it appropriately:
-```
+
 [DOI](https://doi.org/10.1016/j.ecoinf.2025.103133)
-```
+
